@@ -1,6 +1,6 @@
 cask "bilikit" do
-  version "1.9.0,21"
-  sha256 "62025d20bce26e17bcf01e6d6b365750b053ee3942d30e65c7f0d540dc1f00e7"
+  version "1.9.1,23"
+  sha256 "1e5e8306eaf23f604b9b0f321f08f5e5c576dbae2cde8d25e52ab4d4b2263764"
 
   url "https://github.com/shiinayane/BiliKit-Mac/releases/download/v#{version.csv.first}/BiliKit-#{version.csv.first}-#{version.csv.second}-arm64.dmg"
   name "BiliKit"
